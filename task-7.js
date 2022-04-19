@@ -16,7 +16,7 @@ const display = (data) => {
          <h2> TITLE: ${element.title} </h2>
         </div>`
         display.appendChild (div) ;
-        console.log ()
+        console.log (    )
     });
 } ;
 }
